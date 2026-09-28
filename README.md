@@ -11,7 +11,7 @@ Lecturers: Alexandre Allauzen, Florian Le Bronnec, and Shuyu Dong
 ## Homework 1
 - Subject in `HW/hw1_imdb_text_preprocessing.ipynb`
 - Submission deadline: **5 October 2026, 23h59**
-- Submission link:
+- Submission link: [click here](https://forms.gle/LaiakGVNhmJu887G7) 
 
 **Guidelines / advice**:  
 - Submit only one notebook per group.
