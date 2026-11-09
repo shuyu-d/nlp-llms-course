@@ -17,4 +17,9 @@ Lecturers: Alexandre Allauzen, Florian Le Bronnec, and Shuyu Dong
 - Submit only one notebook per group.
 - You are highly encouraged to work on it independently, then discuss and mutualize your answers within your group.
 
+## TP 3 
+- Subject in 
+- Submission deadline: 
+- [Submission link](https://forms.gle/evKYMsTD9sgfc1YM8) 
+
 
